@@ -5,7 +5,7 @@
       {% for post in paginator.posts %}
       <ul>
         <li class="post-title">
-          <a href="{{ post.url }}">
+          <a href="{{ site.baseurl }}/{{ post.url }}">
             {{ post.title }}
           </a>
         </li>
