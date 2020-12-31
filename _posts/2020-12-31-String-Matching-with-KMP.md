@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sub-string Matching with KMP
-tags: algorithms strings 
+tags: algorithms, strings
 ---
 
 MST.
